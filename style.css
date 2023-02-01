@@ -4,8 +4,12 @@ body {
 
 .header {
     background-color: aquamarine;
-    padding: 10px;  
-   
+    padding: 10px;   
+}
+
+a {
+    color:antiquewhite;
+    text-decoration: none;    
 }
 
 .header_logo {
@@ -84,4 +88,17 @@ body {
     
 }
 
+.b_image_search {
+    background-color: #333333;
+    color: whitesmoke;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: #333333;
+    position: relative;
+    left: 230px;  
+    
+    
+    
+}
 
